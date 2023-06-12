@@ -1,0 +1,8 @@
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\bin\Debug\A4_SalaryReport.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\bin\Debug\A4_SalaryReport.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\bin\Debug\A4_SalaryReport.A4-SalaryReport.idy
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\obj\Debug\A4-SalaryReport.cblprojAssemblyReference.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\obj\Debug\A4-SalaryReport.cblproj.CoreCompileInputs.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\obj\Debug\A4_SalaryReport.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\obj\Debug\A4_SalaryReport.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A4-SalaryReport\obj\Debug\A4_SalaryReport.A4-SalaryReport.idy
